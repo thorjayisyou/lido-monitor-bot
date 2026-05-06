@@ -1,0 +1,6 @@
+requests
+web3
+openai
+python-dotenv
+pytz
+schedule
