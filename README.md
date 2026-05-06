@@ -1,1 +1,0 @@
-# lido-monitor-bot
